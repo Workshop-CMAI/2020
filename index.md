@@ -32,14 +32,15 @@ Topics of Interest
 
 Important Dates
 ----
-Paper Submissions: 6 July 2020
+Paper Submission: 6 July 2020
 
-Author Notifications: 27 July 2020
+Author Notification: 27 July 2020
 
-Camera-Ready Paper Submissions: 11 August 2020 
+Camera-Ready Paper Submission: 11 August 2020 
 
 Paper Submission
 ----
+Authors must prepare their submissions in [LNCS format](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines). Submitted papers must not exceed 10 pages (including references, etc.) in length. Submissions are handled in EasyChair. Click here to submit your paper.
 
 Workshop Organizers
 ----
