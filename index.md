@@ -30,6 +30,9 @@ Topics of Interest
 - Model-driven guidance and support for data analytics lifecycle
 - Conceptual models for supporting users with conducting data analysis
 
+Important Dates
+----
+
 Program Committee
 ----
 - Loris Bozzato, Fondazione Bruno Kessler, Italy
@@ -41,3 +44,6 @@ Program Committee
 - Matt Selway, University of South Australia, Adelaide
 - Luciano Serafini, Fondazione Bruno Kessler, Italy
 - Stefan Thalmann, University of Graz, Austria
+*To be finalized*
+
+
