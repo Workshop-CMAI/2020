@@ -42,7 +42,7 @@ Camera-Ready Paper Submission: 11 August 2020
 
 Paper Submission
 ----
-Authors must prepare their submissions in [LNCS format](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines). Papers must not exceed 10 pages (including figures, references, etc.) in length. Submissions are handled in the EasyChair system. Click [here](https://easychair.org/) to submit your paper.
+Authors must prepare their submissions in [LNCS format](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines). Papers must not exceed 10 pages (including figures, references, etc.) in length. Submissions are handled in the EasyChair system. Click [here](https://easychair.org/conferences/?conf=cmai2020) to submit your paper.
 
 Accepted papers will be published in the LNCS series by Springer. Note that only accepted papers presented in the workshop by at least one author will be published.
 
