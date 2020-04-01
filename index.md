@@ -45,13 +45,13 @@ Authors must prepare their submissions in [LNCS format](https://www.springer.com
 Workshop Organizers
 ----
 
-- Dominik Bork, University of Vienna, Austria
-- Peter Fettke, German Research Center for Artificial Intelligence, Germany
-- Wolfgang Maass, German Research Center for Artificial Intelligence, Germany
-- Ulrich Reimer, University of Applied Sciences St. Gallen, Switzerland
-- Christoph G. Schuetz, Johannes Kepler University Linz, Austria
-- Marina Tropmann-Frick, University of Applied Sciences Hamburg, Germany
-- Eric S. K. Yu, University of Toronto, Canada
+- [Dominik Bork](http://homepage.dke.univie.ac.at/bork/), University of Vienna, Austria
+- [Peter Fettke](https://www.dfki.de/web/ueber-uns/mitarbeiter/person/pefe01/), German Research Center for Artificial Intelligence, Germany
+- [Wolfgang Maass](http://iss.uni-saarland.de/de/team/detail/wolfgang/maass/), German Research Center for Artificial Intelligence, Germany
+- [Ulrich Reimer](http://www.ulrichreimer.net/), University of Applied Sciences St. Gallen, Switzerland
+- [Christoph G. Schuetz](http://christoph.schuetz.ws/), Johannes Kepler University Linz, Austria
+- [Marina Tropmann-Frick](https://www.haw-hamburg.de/beschaeftigte/detailansicht/name/marina-tropmann-frick.html), University of Applied Sciences Hamburg, Germany
+- [Eric S. K. Yu](http://www.cs.toronto.edu/~eric/), University of Toronto, Canada
 
 Program Committee
 ----
