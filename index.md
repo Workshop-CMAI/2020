@@ -47,6 +47,7 @@ Program Committee
 - Matt Selway, University of South Australia, Adelaide
 - Luciano Serafini, Fondazione Bruno Kessler, Italy
 - Stefan Thalmann, University of Graz, Austria
+
 *To be finalized*
 
 
