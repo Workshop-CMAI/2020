@@ -14,7 +14,8 @@ Business intelligence (BI) and analytics projects require domain experts, busine
 
 Conceptual modeling is not necessarily a (purely) manual undertaking but can benefit from approaches to model generation. For example, a first draft of a conceptual model might be generated from existing data which will then be extended and refined manually. Furthermore, individual parts of a conceptual model may be generated automatically whereas other parts are handcrafted. Existing models might be (semi-)automatically improved based on regularities derived from newly available data, which may form the basis for self-tuning and self-repairing systems.
 
-*Topics of Interest*
+Topics of Interest
+----
 - Combining generated and manually engineered models
 - Combining symbolic with sub-symbolic models
 - Conceptual (meta-)models as background knowledge for model learning
