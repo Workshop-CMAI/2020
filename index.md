@@ -36,6 +36,17 @@ Important Dates
 Paper Submission
 ----
 
+Workshop Organizers
+----
+
+- Dominik Bork, University of Vienna, Austria
+- Peter Fettke, German Research Center for Artificial Intelligence, Germany
+- Wolfgang Maass, German Research Center for Artificial Intelligence, Germany
+- Ulrich Reimer, University of Applied Sciences St. Gallen, Switzerland
+- Christoph G. Schuetz, Johannes Kepler University Linz, Austria
+- Marina Tropmann-Frick, University of Applied Sciences Hamburg, Germany
+- Eric S. K. Yu, University of Toronto, Canada
+
 Program Committee
 ----
 - Loris Bozzato, Fondazione Bruno Kessler, Italy
