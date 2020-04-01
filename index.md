@@ -29,3 +29,15 @@ Topics of Interest
 - Automatic, incremental model adaptation
 - Model-driven guidance and support for data analytics lifecycle
 - Conceptual models for supporting users with conducting data analysis
+
+Program Committee
+----
+- Loris Bozzato, Fondazione Bruno Kessler, Italy
+- Aditya Ghose, University of Wollongong, Australia
+- Josef Küng, Johannes Kepler University Linz, Austria
+- Bernd Neumayr, Johannes Kepler University Linz, Austria
+- Oscar Romero, Universitat Politècnica de Catalunya, Spain
+- Michael Schrefl, Johannes Kepler University Linz, Austria
+- Matt Selway, University of South Australia, Adelaide
+- Luciano Serafini, Fondazione Bruno Kessler, Italy
+- Stefan Thalmann, University of Graz, Austria
