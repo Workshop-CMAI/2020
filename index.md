@@ -13,3 +13,18 @@ Business intelligence (BI) and analytics projects require domain experts, busine
 **3. Using Data-Driven Model Generation for Conceptual Modeling**
 
 Conceptual modeling is not necessarily a (purely) manual undertaking but can benefit from approaches to model generation. For example, a first draft of a conceptual model might be generated from existing data which will then be extended and refined manually. Furthermore, individual parts of a conceptual model may be generated automatically whereas other parts are handcrafted. Existing models might be (semi-)automatically improved based on regularities derived from newly available data, which may form the basis for self-tuning and self-repairing systems.
+
+*Topics of Interest*
+- Combining generated and manually engineered models
+- Combining symbolic with sub-symbolic models
+- Conceptual (meta-)models as background knowledge for model learning
+- Explainability of learned models
+- Conceptual models for enabling explainability, model validation and plausibility checking
+- Trade-off between explainability and model performance
+- Trade-off between comprehensibility of an explanation and its completeness
+- Reasoning in generated models
+- Data-driven modeling support
+- Learning of meta-models
+- Automatic, incremental model adaptation
+- Model-driven guidance and support for data analytics lifecycle
+- Conceptual models for supporting users with conducting data analysis
