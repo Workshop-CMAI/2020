@@ -16,6 +16,8 @@ Conceptual modeling is not necessarily a (purely) manual undertaking but can ben
 
 Topics of Interest
 ----
+The topics of interest include, but are not limited to, the following:
+
 - Combining generated and manually engineered models
 - Combining symbolic with sub-symbolic models
 - Conceptual (meta-)models as background knowledge for model learning
