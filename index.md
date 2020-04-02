@@ -44,7 +44,7 @@ Paper Submission
 ----
 Authors should consult [Springer's authors' guidelines](ftp://ftp.springernature.com/cs-proceeding/svproc/guidelines/Springer_Guidelines_for_Authors_of_Proceedings.pdf) and use their proceedings templates, either for [LaTeX](ftp://ftp.springernature.com/cs-proceeding/llncs/llncs2e.zip) or for [Word](ftp://ftp.springernature.com/cs-proceeding/llncs/word/splnproc1703.zip), for the preparation of their papers. Springer encourages authors to include their ORCIDs in their papers. In addition, the corresponding author of each paper, acting on behalf of all of the authors of that paper, must complete and sign a Consent-to-Publish form. The corresponding author signing the copyright form should match the corresponding author marked on the paper. Once the files have been sent to Springer, changes relating to the authorship of the papers cannot be made.
 
-Papers must not exceed 10 pages (including figures, references, etc.) in length. Submissions are handled in the EasyChair system. Click [here](https://easychair.org/conferences/?conf=cmai2020) to submit your paper.
+Papers must not exceed 10 pages (including figures, references, etc.) in length using the LNCS template. Submissions are handled in the EasyChair system. Click [here](https://easychair.org/conferences/?conf=cmai2020) to submit your paper.
 
 Accepted papers will be published in the LNCS series by Springer. Note that only accepted papers presented in the workshop by at least one author will be published.
 
