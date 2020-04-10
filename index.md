@@ -66,7 +66,6 @@ Program Committee
 - Josef Küng, Johannes Kepler University Linz, Austria
 - Bernd Neumayr, Johannes Kepler University Linz, Austria
 - Oscar Romero, Universitat Politècnica de Catalunya, Spain
-- Michael Schrefl, Johannes Kepler University Linz, Austria
 - Matt Selway, University of South Australia, Adelaide
 - Luciano Serafini, Fondazione Bruno Kessler, Italy
 - Stefan Thalmann, University of Graz, Austria
