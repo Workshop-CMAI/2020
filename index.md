@@ -34,11 +34,9 @@ The topics of interest include, but are not limited to, the following:
 
 Important Dates
 ----
-Paper Submission: 6 July 2020
+Paper Submission: ~~6 July 2020~~ 27 July 2020
 
-Author Notification: 27 July 2020
-
-Camera-Ready Paper Submission: 11 August 2020 
+Author Notification: ~~27 July 2020~~ 17 August 2020
 
 Paper Submission
 ----
