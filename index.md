@@ -61,14 +61,32 @@ Workshop Organizers
 
 Program Committee
 ----
+- Klaus-Dieter Althoff, DFKI / University of Hildesheim, Germany
+- Kerstin	Bach, Norwegian University of Science and Technology, Norway
+- Ralph	Bergmann, University of Trier, Germany
 - Loris Bozzato, Fondazione Bruno Kessler, Italy
+- Isabelle Comyn-Wattiau, ESSEC & CNAM, France
+- Ernesto	Damiani, University of Milan, Italy
+- Tatiana	Endrjukaite, NTT
+- Michael Fellmann, University of Rostock, Germany
+- Hans-Georg Fill, University of Fribourg, Switzerland
 - Aditya Ghose, University of Wollongong, Australia
+- Knut Hinkelmann, FHNW University of Applied Sciences and Arts Northwestern Switzerland, Switzerland
+- Kamalakar Karlapalem, IIIT Hyderabad, India
 - Josef Küng, Johannes Kepler University Linz, Austria
+- Julio Cesar	Leite, PUC-Rio, Brasil
 - Bernd Neumayr, Johannes Kepler University Linz, Austria
+- Jeffrey	Parsons, University of Newfoundland, Canada
+- Barbara	Re, University of Camerino, Italy
 - Oscar Romero, Universitat Politècnica de Catalunya, Spain
 - Matt Selway, University of South Australia, Adelaide
-- Luciano Serafini, Fondazione Bruno Kessler, Italy
+- Bernhard Thalheim, Christian Albrechts University Kiel, Germany
 - Stefan Thalmann, University of Graz, Austria
+- Rosina	Weber, Drexel University, USA
+- Tatjana	Welzer, University of Maribor, Slovenia
+- Mathias	Weske, University of Potsdam, Germany
+- Nil	Wick, epworth
+- Takahira Yamaguchi, Keio University, Japan
 
 *To be finalized*
 
