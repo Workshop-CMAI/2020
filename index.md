@@ -36,7 +36,7 @@ Important Dates
 ----
 Paper submission: ~~6 July 2020~~ 27 July 2020 (Extension due to COVID-19 situation)
 
-Author notification: ~~27 July 2020~~ 17 August 2020
+Author notification: ~~27 July 2020~~ ~~17 August~~ 21 August 2020
 
 Camera-ready Version: ~~11 August 2020~~ 7 September 2020
 
