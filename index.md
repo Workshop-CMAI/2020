@@ -88,6 +88,10 @@ Program Committee
 - Nil	Wick, epworth
 - Takahira Yamaguchi, Keio University, Japan
 
-*To be finalized*
+Accepted Papers
+----
 
-
+- Ulrich Reimer, Beat Tödtli and Edith Maier. **How to Induce Trust in Medical AI Systems**
+- Pulkit Sharma, Shezan Mirzan, Apurva Bhandari, Anish Pimpley, Abhiram Eswaran, Soundar Srinivasan and Liqun Shao. **Evaluating Tree Explanation Methods for Anomaly Reasoning: A Case Study of SHAP TreeExplainer and TreeInterpreter**
+- Mattia Fumagalli, Tiago Prince Sales and Giancarlo Guizzardi. **Towards Automated Support for Conceptual Model Diagnosis and Repair**
+- Roman Lukyanenko, Arturo Castellanos, Veda Storey, Alfred Castillo, Monica Chiarini Tremblay and Jeffrey Parsons. **Superimposition: Augmenting Machine Learning Outputs with Conceptual Models for Explainable AI**
