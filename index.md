@@ -91,11 +91,11 @@ Program Committee
 Accepted Papers
 ----
 
-- **How to Induce Trust in Medical AI Systems**
+- **How to Induce Trust in Medical AI Systems**   
   Ulrich Reimer, Beat Tödtli and Edith Maier
-- **Evaluating Tree Explanation Methods for Anomaly Reasoning: A Case Study of SHAP TreeExplainer and TreeInterpreter**
+- **Evaluating Tree Explanation Methods for Anomaly Reasoning: A Case Study of SHAP TreeExplainer and TreeInterpreter**   
   Pulkit Sharma, Shezan Mirzan, Apurva Bhandari, Anish Pimpley, Abhiram Eswaran, Soundar Srinivasan and Liqun Shao
-- **Towards Automated Support for Conceptual Model Diagnosis and Repair**
+- **Towards Automated Support for Conceptual Model Diagnosis and Repair**   
   Mattia Fumagalli, Tiago Prince Sales and Giancarlo Guizzardi
-- **Superimposition: Augmenting Machine Learning Outputs with Conceptual Models for Explainable AI**
+- **Superimposition: Augmenting Machine Learning Outputs with Conceptual Models for Explainable AI**   
   Roman Lukyanenko, Arturo Castellanos, Veda Storey, Alfred Castillo, Monica Chiarini Tremblay and Jeffrey Parsons
