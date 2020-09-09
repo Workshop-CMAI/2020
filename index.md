@@ -14,6 +14,19 @@ Business intelligence (BI) and analytics projects require domain experts, busine
 
 Conceptual modeling is not necessarily a (purely) manual undertaking but can benefit from approaches to model generation. For example, a first draft of a conceptual model might be generated from existing data which will then be extended and refined manually. Furthermore, individual parts of a conceptual model may be generated automatically whereas other parts are handcrafted. Existing models might be (semi-)automatically improved based on regularities derived from newly available data, which may form the basis for self-tuning and self-repairing systems.
 
+Accepted Papers
+----
+
+- **How to Induce Trust in Medical AI Systems**   
+  Ulrich Reimer, Beat Tödtli and Edith Maier
+- **Evaluating Tree Explanation Methods for Anomaly Reasoning: A Case Study of SHAP TreeExplainer and TreeInterpreter**   
+  Pulkit Sharma, Shezan Mirzan, Apurva Bhandari, Anish Pimpley, Abhiram Eswaran, Soundar Srinivasan and Liqun Shao
+- **Towards Automated Support for Conceptual Model Diagnosis and Repair**   
+  Mattia Fumagalli, Tiago Prince Sales and Giancarlo Guizzardi
+- **Superimposition: Augmenting Machine Learning Outputs with Conceptual Models for Explainable AI**   
+  Roman Lukyanenko, Arturo Castellanos, Veda Storey, Alfred Castillo, Monica Chiarini Tremblay and Jeffrey Parsons
+
+
 Topics of Interest
 ----
 The topics of interest include, but are not limited to, the following:
@@ -88,14 +101,3 @@ Program Committee
 - Nil	Wick, epworth
 - Takahira Yamaguchi, Keio University, Japan
 
-Accepted Papers
-----
-
-- **How to Induce Trust in Medical AI Systems**   
-  Ulrich Reimer, Beat Tödtli and Edith Maier
-- **Evaluating Tree Explanation Methods for Anomaly Reasoning: A Case Study of SHAP TreeExplainer and TreeInterpreter**   
-  Pulkit Sharma, Shezan Mirzan, Apurva Bhandari, Anish Pimpley, Abhiram Eswaran, Soundar Srinivasan and Liqun Shao
-- **Towards Automated Support for Conceptual Model Diagnosis and Repair**   
-  Mattia Fumagalli, Tiago Prince Sales and Giancarlo Guizzardi
-- **Superimposition: Augmenting Machine Learning Outputs with Conceptual Models for Explainable AI**   
-  Roman Lukyanenko, Arturo Castellanos, Veda Storey, Alfred Castillo, Monica Chiarini Tremblay and Jeffrey Parsons
