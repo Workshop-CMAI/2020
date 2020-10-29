@@ -13,7 +13,7 @@ Accepted Papers
   Mattia Fumagalli, Tiago Prince Sales and Giancarlo Guizzardi
 - **Superimposition: Augmenting Machine Learning Outputs with Conceptual Models for Explainable AI**   
   Roman Lukyanenko, Arturo Castellanos, Veda Storey, Alfred Castillo, Monica Chiarini Tremblay and Jeffrey Parsons
-  [Paper link](https://sigsand.com/wp-content/uploads/2020/10/CMAI-2020-Superimposition-for-Explainable-AI-Lukyanenko-et-al.pdf)
+  [Preprint Paper link](https://sigsand.com/wp-content/uploads/2020/10/CMAI-2020-Superimposition-for-Explainable-AI-Lukyanenko-et-al.pdf)
 
 
 <!--
