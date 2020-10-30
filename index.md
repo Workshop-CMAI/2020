@@ -7,6 +7,7 @@ Accepted Papers
 
 - **How to Induce Trust in Medical AI Systems**   
   Ulrich Reimer, Beat Tödtli and Edith Maier
+  [Preprint Paper link](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxob21lcGFnZW9mdWxyaWNocmVpbWVyfGd4OjY3ZDFhNDk5ZjkwZmNmZGE)
 - **Evaluating Tree Explanation Methods for Anomaly Reasoning: A Case Study of SHAP TreeExplainer and TreeInterpreter**   
   Pulkit Sharma, Shezan Mirzan, Apurva Bhandari, Anish Pimpley, Abhiram Eswaran, Soundar Srinivasan and Liqun Shao
 - **Towards Automated Support for Conceptual Model Diagnosis and Repair**   
