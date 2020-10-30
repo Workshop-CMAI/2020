@@ -11,6 +11,7 @@ Accepted Papers
   Pulkit Sharma, Shezan Mirzan, Apurva Bhandari, Anish Pimpley, Abhiram Eswaran, Soundar Srinivasan and Liqun Shao
 - **Towards Automated Support for Conceptual Model Diagnosis and Repair**   
   Mattia Fumagalli, Tiago Prince Sales and Giancarlo Guizzardi
+  [Preprint Paper link](https://www.researchgate.net/publication/343906363_Towards_Automated_Support_for_Conceptual_Model_Diagnosis_and_Repair)
 - **Superimposition: Augmenting Machine Learning Outputs with Conceptual Models for Explainable AI**   
   Roman Lukyanenko, Arturo Castellanos, Veda Storey, Alfred Castillo, Monica Chiarini Tremblay and Jeffrey Parsons
   [Preprint Paper link](https://sigsand.com/wp-content/uploads/2020/10/CMAI-2020-Superimposition-for-Explainable-AI-Lukyanenko-et-al.pdf)
