@@ -10,6 +10,7 @@ Accepted Papers
   [Preprint Paper link](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxob21lcGFnZW9mdWxyaWNocmVpbWVyfGd4OjY3ZDFhNDk5ZjkwZmNmZGE)
 - **Evaluating Tree Explanation Methods for Anomaly Reasoning: A Case Study of SHAP TreeExplainer and TreeInterpreter**   
   Pulkit Sharma, Shezan Mirzan, Apurva Bhandari, Anish Pimpley, Abhiram Eswaran, Soundar Srinivasan and Liqun Shao
+  [Preprint Paper link](https://arxiv.org/abs/2010.06734)
 - **Towards Automated Support for Conceptual Model Diagnosis and Repair**   
   Mattia Fumagalli, Tiago Prince Sales and Giancarlo Guizzardi
   [Preprint Paper link](https://www.researchgate.net/publication/343906363_Towards_Automated_Support_for_Conceptual_Model_Diagnosis_and_Repair)
